@@ -2,7 +2,7 @@
 
 ### Description:
 CSMarkRemover.py is a simple Python script for batch-removing the watermark from the app CamScanner on a folder of PDFs.<br/>
-<br/>
+
 ### How to use:
 1. Install the script by running one of two below commands in a terminal depending on your OS:
 
