@@ -1,4 +1,4 @@
-# Simple Python script for batch-removing the watermark from the app CamScanner on a folder of PDFs -- created by Allan Edh (allan.edh@gmail.com)
+# Simple Python script for batch-removing the watermark from the app CamScanner on a folder of PDFs -- created by Allan Edh @crabfeather
 # Requirements: 'pip install PyMuPDF'
 
 import fitz
