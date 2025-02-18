@@ -27,8 +27,3 @@ pip install PyMuPDF
 ```
 python CSMarkRemover.py <input-folder>
 ```
-
-### Contact:
-Allan Edh\
-Research Intern, *Stockholm School of Economics* (SSE)\
-allan.edh@gmail.com
